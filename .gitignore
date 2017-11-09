@@ -1,4 +1,4 @@
 .vscode/
 taskbuster/__pycache__/
 taskbuster/settings/__pycache__/
-taskbuster/db.sqlite3
+db.sqlite3
