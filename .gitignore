@@ -1,4 +1,7 @@
 .vscode/
 taskbuster/__pycache__/
 taskbuster/settings/__pycache__/
+functional_tests/__pycache__/
+__pycache__
 db.sqlite3
+geckodriver.log
